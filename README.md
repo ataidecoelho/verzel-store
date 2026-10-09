@@ -27,10 +27,10 @@ https://verzel-store.qa-test-verzel-store.workers.dev/
 ## 4. Evidencias da Entrega
 
 Na asta documentos, há os seguintes arquivos em pdf e xlsx:
-Bug Report
-Cenários de Teste
-Link dos videos executanto testes
-Execução dos testes com Resultados
+* Bug Report
+* Cenários de Teste
+* Link dos videos executanto testes
+* Execução dos testes com Resultados
 
 ```text
 verzel-store/
