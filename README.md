@@ -24,6 +24,13 @@ https://verzel-store.qa-test-verzel-store.workers.dev/
 
 **Funcionalidades testadas:** Carrinho de compras realizando pedido com sucesso, adicionando cupom válido, limpeza de carrinho.
 
+## 4. Evidencias da Entrega
+
+Na asta documentos, há os seguintes arquivos em pdf e xlsx:
+Bug Report
+Cenários de Teste
+Link dos videos executanto testes
+Execução dos testes com Resultados
 
 ```text
 verzel-store/
@@ -45,7 +52,7 @@ verzel-store/
 * `playwright.config.js`: configura a execução dos testes.
 * `README.md`: documenta o projeto e orienta sua execução.
 
-## 7. Instalação e configuração
+## 5. Instalação e configuração
 
 ### Pré-requisitos
 
@@ -71,7 +78,7 @@ Instale os navegadores necessários:
 npx playwright install
 ```
 
-## 8. Executar os testes
+## 6. Executar os testes
 
 Para executar todos os testes configurados:
 
@@ -79,7 +86,7 @@ Para executar todos os testes configurados:
 npx playwright test
 ```
 
-## 9. Relatório de execução
+## 7. Relatório de execução
 
 Após a execução, gere ou consulte o relatório HTML do Playwright:
 
